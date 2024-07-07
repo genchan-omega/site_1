@@ -1,1 +1,0 @@
-# genchan_omega.github.io
