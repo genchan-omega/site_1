@@ -1,25 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Guitar hero</title>
+    <title>Posts on My New Hugo Site</title>
     <link>https://example.org/posts/</link>
-    <description>Recent content in Posts on Guitar hero</description>
+    <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 29 Mar 2024 18:41:54 +0900</lastBuildDate>
     <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>今季見るアニメ</title>
-      <link>https://example.org/posts/post_2/</link>
-      <pubDate>Fri, 29 Mar 2024 18:41:54 +0900</pubDate>
-      <guid>https://example.org/posts/post_2/</guid>
-      <description>アニメ紹介 今季見たアニメで良かったものをピックアップしていきます。&#xA;NieR:Automata Ver 1.1a 最初は1話見た段階で、正直世界観に入り込めずに見るのを躊躇してしまいました。&#xA;だけど、話が進むにつれてどんどん引き込まれていき、そのストーリーの秀逸さには脱帽しました。&#xA;まだ見ていない人は絶対見た方がいい！&#xA;2.5次元の誘惑 かわいい、かわいすぎる、その一言に尽きる。&#xA;2次元くらいでは彼女がたくさんいる僕も、これには嬉しすぎて発狂。&#xA;コスプレ関係ということで「キセコイの二番煎じかよ」という気持ちになるかもですが、それとはまた違った良さがあることを、声を大にして言いたい。</description>
-    </item>
-    <item>
       <title>殿堂入りアニメ</title>
-      <link>https://example.org/posts/post_1/</link>
+      <link>https://example.org/posts/my-first-post/</link>
       <pubDate>Fri, 29 Mar 2024 18:41:54 +0900</pubDate>
-      <guid>https://example.org/posts/post_1/</guid>
+      <guid>https://example.org/posts/my-first-post/</guid>
       <description>アニメ紹介 最近見たアニメで良かったものをピックアップしていきます。&#xA;ぼっちざろっく 映画 ぼっちざろっく はもう見ましたか？&#xA;全人類が見るべき、最高の作品です。&#xA;絶対に観に行きましょう。&#xA;ガールズバンドクライ ニーナがとてもロックロックしていて面白い作品です。&#xA;笑いあり、涙あり、ラストライブは目を離せません。&#xA;まだ見ていない人はもったいない！ぜひ見よう。</description>
     </item>
   </channel>
