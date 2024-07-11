@@ -1,0 +1,4 @@
+baseURL = 'https://genchan-omega.github.io/practice_site/'
+languageCode = 'ja'
+title = 'おすすめアニメ紹介'
+theme = 'ananke'
