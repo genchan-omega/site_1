@@ -1,0 +1,4 @@
+baseURL = 'https://genchan-omega.github.io/practice_site/'
+languageCode = 'ja'
+title = 'お遊びサイト作成練習場所'
+theme = 'ananke'
