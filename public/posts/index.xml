@@ -2,25 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on お遊びサイト作成練習場所</title>
-    <link>http://localhost:1313/practice_site/posts/</link>
+    <link>https://genchan-omega.github.io/practice_site/posts/</link>
     <description>Recent content in Posts on お遊びサイト作成練習場所</description>
     <generator>Hugo</generator>
     <language>ja</language>
     <lastBuildDate>Fri, 29 Mar 2024 18:41:54 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/practice_site/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://genchan-omega.github.io/practice_site/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>殿堂入りアニメ</title>
-      <link>http://localhost:1313/practice_site/posts/post_1/</link>
+      <link>https://genchan-omega.github.io/practice_site/posts/post_3/</link>
       <pubDate>Fri, 29 Mar 2024 18:41:54 +0900</pubDate>
-      <guid>http://localhost:1313/practice_site/posts/post_1/</guid>
-      <description>アニメ紹介 </description>
+      <guid>https://genchan-omega.github.io/practice_site/posts/post_3/</guid>
+      <description>アニメ紹介 最近見たアニメで良かったものをピックアップしていきます。&#xA;ぼっちざろっく 映画 ぼっちざろっく はもう見ましたか？&#xA;全人類が見るべき、最高の作品です。&#xA;絶対に観に行きましょう。&#xA;ガールズバンドクライ ニーナがとてもロックロックしていて面白い作品です。&#xA;笑いあり、涙あり、ラストライブは目を離せません。&#xA;まだ見ていない人はもったいない！ぜひ見よう。</description>
     </item>
     <item>
-      <title>殿堂入りアニメ</title>
-      <link>http://localhost:1313/practice_site/posts/post_2/</link>
-      <pubDate>Fri, 29 Mar 2024 18:41:54 +0900</pubDate>
-      <guid>http://localhost:1313/practice_site/posts/post_2/</guid>
-      <description>アニメ紹介 最近見たアニメで良かったものをピックアップしていきます。&#xA;ぼっちざろっく 映画 ぼっちざろっく はもう見ましたか？&#xA;全人類が見るべき、最高の作品です。&#xA;絶対に観に行きましょう。&#xA;ガールズバンドクライ ニーナがとてもロックロックしていて面白い作品です。&#xA;笑いあり、涙あり、ラストライブは目を離せません。&#xA;まだ見ていない人はもったいない！ぜひ見よう。</description>
+      <title>作成したサイト</title>
+      <link>https://genchan-omega.github.io/practice_site/posts/post_2/</link>
+      <pubDate>Fri, 29 Mar 2024 01:41:54 +0900</pubDate>
+      <guid>https://genchan-omega.github.io/practice_site/posts/post_2/</guid>
+      <description>Lv.0 Hugo でサイトを作成 GitHub Pages でサイトを公開 作成完了&#xA;Lv.1 Hugo でサイトを作成 Netlify でサイトを公開 Coming soon&amp;hellip;</description>
+    </item>
+    <item>
+      <title>何のサイト？</title>
+      <link>https://genchan-omega.github.io/practice_site/posts/post_1/</link>
+      <pubDate>Fri, 29 Mar 2024 00:41:54 +0900</pubDate>
+      <guid>https://genchan-omega.github.io/practice_site/posts/post_1/</guid>
+      <description>目的 サイトを作って、作って、作りまくる場所 色々な方法でサイトを作って、webへの理解を深める。 なにやるの？ 以下のリンク参照&#xA;がんばるぞ〜 </description>
     </item>
   </channel>
 </rss>
